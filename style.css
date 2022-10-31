@@ -1,0 +1,32 @@
+.title {
+    margin-top : 50px;
+}
+
+.title {
+    text-align : center;
+}
+
+.registration-form {
+    width : 900px;
+    margin : auto;
+}
+
+.main-form{
+    background-color: lightblue;
+}
+
+.container {
+    background-color: powderblue;
+}
+
+.box{
+    background-color: black;
+    color: azure;  
+    width:100%; 
+    padding: 10px;
+}
+/*registration form*/
+
+.submitButton {
+    text-align : center;
+}
